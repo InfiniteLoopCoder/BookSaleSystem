@@ -1,6 +1,7 @@
 # 图书管理系统 (Library Management System)
 
 一个现代化的全栈应用程序，用于管理图书馆的库存、销售、采购和财务。
+
 ![image](https://github.com/user-attachments/assets/5ec656c1-72f4-438c-842c-5c4262a968fc)
 
 ## 项目概述
